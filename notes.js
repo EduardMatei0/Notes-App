@@ -92,7 +92,7 @@ const listNotes = () => {
     });
 }
 
-// exporting functions
+// exporting functions for use
 
 module.exports = {
     addNote: addNote,
